@@ -1,0 +1,66 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dados para cima",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Com as duas mão na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da cabeça",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço",
+        "amount": 60
+    },
+    {
+        "type": "body",
+
+        "description": "Puxe seu pescoço com a ajuda da mão para a diretita e para a esquerda, permanecendo na posição",
+        "amount": 70
+    },
+    {
+        "type": "eye",
+        "description": "Feche os olhos por 30 segundos e respire fundo",
+        "amount": 70
+    },
+    {
+        "type": "eye",
+        "description": "Limpe os oculos ",
+        "amount": 40
+    },
+    {
+        "type": "eye",
+        "description": "Esfregue os olhos de modo circular até relaxar",
+        "amount": 40
+    },
+    {
+        "type": "body",
+
+        "description": "Beba água",
+        "amount": 70
+    },
+    {
+        "type": "body",
+
+        "description": "Preste atenção em uma música",
+        "amount": 40
+    },
+    {
+        "type": "body",
+
+        "description": "Vá dar uma caminhada de 3 minutos",
+        "amount": 70
+    },
+    {
+        "type": "body",
+
+        "description": "Diga que as pessoa que ama 'Eu te amo'",
+        "amount": 50
+    }
+
+
+
+
+]
